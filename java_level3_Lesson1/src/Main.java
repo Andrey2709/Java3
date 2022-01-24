@@ -5,7 +5,7 @@ import Fruting.Orange;
 
 import java.util.Arrays;
 import java.util.List;
-
+//ДЗ
 import static Fruting.Box.compaer;
 
 public class Main {
